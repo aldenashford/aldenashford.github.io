@@ -1,19 +1,10 @@
-# Hailee portfolio webpage
+# Alden Ashford portfolio webpage
 
-A portfolio web site completely made in html css and js from ground up.
+I’m Alden, a YouTube growth and marketing strategist. I help creators and businesses grow through 
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+#SEO
+#Branding, 
+#High-converting thumbnails
+#Audience into customers
 
-<br>
-
-## This is how it looks
-
-<br>
-
-### In dark mode
-
-![In dark mode](./preview/hailee-dark.png)
-
-### In light mode
-
-![In light mode](./preview/hailee-light.png)
+Let’s turn views into loyal fans and subscribers!
